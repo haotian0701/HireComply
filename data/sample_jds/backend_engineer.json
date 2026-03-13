@@ -1,0 +1,7 @@
+{
+  "title": "Senior Backend Engineer",
+  "company": "TechCorp GmbH",
+  "location": "Stuttgart, Germany",
+  "text": "Senior Backend Engineer - Stuttgart, Germany\n\nWe are looking for a young and dynamic software engineer to join our fast-paced team. The ideal candidate is a digital native who thrives in a high-energy startup environment.\n\nRequirements:\n- 5+ years of Python experience\n- Strong knowledge of FastAPI or Django\n- Experience with PostgreSQL and Redis\n- Familiarity with Docker and Kubernetes\n- Excellent English communication skills\n- Bachelor's degree from a top-tier university\n\nNice to have:\n- Experience with LLMs and AI/ML\n- German language skills\n- Contributions to open-source projects",
+  "_note": "This JD contains intentional bias for testing: 'young and dynamic', 'digital native', 'top-tier university'"
+}
